@@ -8,8 +8,10 @@ This project performs network scanning using kali linux by using these task we l
 nmap localhost (scan the nmap) ,nmap -sV localhost it will scan the nmap completely,after the final output will appers in 
 nmap_results.txt . it will very helpfull for my career thank you "OASIS INFOBYTE" .
 
+## platform used
+- kali linux
 
-## Tools Used
+## commands Used
 - nmap --version
 - nmap localhost
 - nmap -sV localhost
@@ -18,3 +20,4 @@ nmap_results.txt . it will very helpfull for my career thank you "OASIS INFOBYTE
 
 ## Author
 Sukanya
+
